@@ -7,3 +7,8 @@ Un demo cu lucru cu branch-uri
 Va contine retete.
 
 aceasta modificare este facuta in browser
+
+
+ Retetarul se vede [aici](./retetar.md)
+
+ [Clatite](./retetar.md/clatite.md)
