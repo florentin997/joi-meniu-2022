@@ -1,5 +1,5 @@
 # Sarmale 
 
-varza
-orez
-carne
+ - varza
+ - orez
+ - carne

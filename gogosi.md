@@ -1,5 +1,5 @@
 
-Lapte
-Faina
-aroma
-zahar
+ - Lapte
+ - Faina
+ - aroma
+ - zahar

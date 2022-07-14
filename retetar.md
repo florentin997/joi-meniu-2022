@@ -6,5 +6,5 @@ Aceasta este lista de retete pe care o cunoastem
 [Sarmale](./sarmale.md)
 [Paste](./Paste.md)
 ## Desert
-[Gogosi](./retete/gogosi.md) 
-[Clatite](./retete/clatite.md)
+[Gogosi](./gogosi.md) 
+[Clatite](./clatite.md)
