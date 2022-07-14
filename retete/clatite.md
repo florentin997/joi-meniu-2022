@@ -1,5 +1,0 @@
-# Clatite 
-
-Lapte
-Oua
-Faina
