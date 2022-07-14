@@ -15,4 +15,4 @@ aceasta modificare este facuta in browser
 
  ## IDK what i am doing anymore
 
- [Briose](./retetar.md/briose.md)
+ [Briose](./briose.md)
